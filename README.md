@@ -8,6 +8,8 @@
 [<img align="left" alt="blogue.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="theblogueteam| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="theblogueteam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="theblogueteam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 <br />
 <br />
 
@@ -32,8 +34,10 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com
 [<img align="center" alt="blogue.tech"  src="https://blogue.tech/static/images/logo.gif" />][website]
 
 [website]: https://blogue.tech
-[twitter]: https://twitter.com/theblogueteam
-[instagram]: https://instagram.com/theblogueteam
+[twitter]: https://twitter.com/blogue_tech
+[instagram]: https://instagram.com/blogue.tech
+[facebook]: https://www.facebook.com/blogue.tech
+
 
 
 
