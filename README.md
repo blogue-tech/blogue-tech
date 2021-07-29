@@ -31,7 +31,7 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com
 <br />
 
 ### Checkout [Blogue](https://blogue.tech)
-[<img align="center" alt="blogue.tech"  src="https://blogue.tech/static/images/logo.gif" />][website]
+[<img align="center" alt="blogue.tech"  src="https://blogue.tech/static/images/coffee.gif" />][website]
 
 [website]: https://blogue.tech
 [twitter]: https://twitter.com/blogue_tech
